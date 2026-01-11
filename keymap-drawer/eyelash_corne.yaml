@@ -84,7 +84,7 @@ layers:
   - RGB HUD
   - RGB HUI
   - RGB EFF
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:skip-next$$', h: '$$mdi:skip-previous$$'}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - RGB EFR
   - RGB SPI
