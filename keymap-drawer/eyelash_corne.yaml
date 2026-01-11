@@ -35,7 +35,7 @@ layers:
   - C
   - V
   - B
-  - MUTE
+  - PLAY PAUSE
   - $$mdi:arrow-down-bold$$
   - N
   - M
@@ -63,7 +63,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - {t: '$$mdi:backspace$$', type: backspace}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:keyboard-tab$$
   - BT CLR ALL
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
